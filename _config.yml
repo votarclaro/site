@@ -25,7 +25,7 @@ baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://votarclaro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: jekyll-remote-theme
+theme: minima
 plugins:
   - jekyll-feed
 
